@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/26xBukhJ0i8KXADYc" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/animation-hello-mograph-26xBukhJ0i8KXADYc">via GIPHY</a></p>
+
 
 ### Hi there 👋, Roy Mukuye is a full stack developer. 
 
