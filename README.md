@@ -4,11 +4,7 @@
 
 
 - 🌱 I’m currently learning RoR and React 
-- 💬 Ask me about RoR and Javascript
 - 👯 Looking forward to new oppotunities
-
-
-- 📫 How to reach me: Twitter - @roymkenya
 
 <!--
 **mke2111/mke2111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
