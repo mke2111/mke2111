@@ -1,4 +1,4 @@
-
+<img align="center" title='wave' alt='waving' height=60 src='https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif'>
 
 <p align='center'>
 <b>
