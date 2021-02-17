@@ -1,3 +1,10 @@
+<p align="center"><a href="https://twitter.com/Roymkenya" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/roy-mukuye-42b07b1b4" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<!-- <a href="https://medium.com/@phillipmusiime" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> -->
+  </p>
+
+<br/>
+<br/>
+
 <p align='center'>
   <span align="center">
     <img  title='wave' alt='waving' height=150 src='https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif'>
@@ -10,10 +17,10 @@
 </b>
 </p>
 
-<p>
-
-</p>
-
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 <p align="center">
