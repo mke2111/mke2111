@@ -30,7 +30,7 @@
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/480px-Bootstrap_logo.svg.png"> -->
     <img title="Jest" alt="Jest" height=40 src="https://jestjs.io/img/jest-card-run.svg">
     <img title="RSpec" alt="RSpec" height=40 src="https://seeklogo.com/images/R/rspec-logo-DA1EE19A18-seeklogo.com.png">
-    <img title="Webpack" alt="Webpack" height=40 src="https://camo.githubusercontent.com/15983246cafebf65f7139e5b021da9cc4d9f50c1/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f7765627061636b2f7765627061636b2d6f726967696e616c2e737667">
+    <!-- <img title="Webpack" alt="Webpack" height=40 src="https://camo.githubusercontent.com/15983246cafebf65f7139e5b021da9cc4d9f50c1/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f7765627061636b2f7765627061636b2d6f726967696e616c2e737667"> -->
     <img title="Git" alt="Git" height=40 src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
   </span>
 </p>
