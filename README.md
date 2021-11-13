@@ -20,7 +20,7 @@ Roy Mukuye is a Full-Stack developer. I've used my skills to build various proje
 
 ### How to Reach me
 
-- LinkedIn: <a href="https://twitter.com/Roymkenya" target="_blank"><img alt="Twitter" height="7px" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+- LinkedIn: <a href="https://twitter.com/Roymkenya" target="_blank"><img alt="Twitter" height="15px" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 - Email: roymke134@gmail.com
 - Twitter: <a href="https://www.linkedin.com/in/roy-mukuye-42b07b1b4" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 - Resume: [Resume](https://docs.google.com/document/d/1V3_XoTmN75quS0wWduAnW5yUYESYu7vhh8ZEK1hdcAQ/edit?usp=sharing)
