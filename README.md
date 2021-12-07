@@ -15,7 +15,7 @@
 
 Roy Mukuye is a Full-Stack developer. I've used my skills to build various projects and help mentor a few other students while studying at Microverse (a remote full-stack development program that's focused on pair programming).
 
-- I'm currently learning TypeScript and building Vue.js projects.
+- I'm currently learning TypeScript and building Node.js projects.
 - I'm also available for hire for both full-time and part-time remote roles.
 
 ### How to Reach me
