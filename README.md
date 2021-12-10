@@ -30,7 +30,6 @@ Roy Mukuye is a Full-Stack developer. I've used my skills to build various proje
 <br/>
 <br/>
 <br/>
-<br/>
 
 <p align="center">
   <span align="center" class="d-flex">
