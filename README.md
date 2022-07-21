@@ -9,7 +9,7 @@
 
 ### Hi there 👋,
 
-Roy Mukuye is a Full-Stack developer. I've used my skills to build various projects and help mentor a few other students while studying at Microverse (a remote full-stack development program that's focused on pair programming).
+Roy Mukuye is a remote Full-Stack web developer. I've used my skills to build various personal projects. I have managed a small team of code reviewers and perfomed quality control on a number of projects, and also help mentor a few other students while studying at Microverse (a remote full-stack development program that's focused on pair programming).
 
 - I'm currently learning TypeScript and building Node.js projects.
 - I'm also available for hire for both full-time and part-time remote roles.
